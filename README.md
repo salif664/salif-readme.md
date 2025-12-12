@@ -27,10 +27,10 @@ Below are the links to the GitHub accounts of my lecturers:
    - MSc in computer engineering - YIBS
 
    - Teach: software engineering
-   - 
+    
 **Vernyuy Basile**
 
-- GITHub:https://github.com/Vernyuy basile
+  GITHub:https://github.com/Vernyuy basile
 
   - BSc in computer engineering - YIBS
   
@@ -65,6 +65,8 @@ Below are the links to the GitHub accounts of my lecturers:
   - technologies: :HTML,CSS,javascript
 
   - description: A calculator that allow user to access when ever they need to carryout calculation in a dashboard
+
+   - Repository: https://github.com/SALIFU_BETEYE/salif-form
     ---
 ## About this repository
 
