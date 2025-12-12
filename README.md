@@ -15,4 +15,4 @@ Below are the links to the GitHub accounts of my lecturers:
 
  -MSc in computer engineering - YIBS
 
- -Teach: computer architecture
+     -Teach: computer architecture
